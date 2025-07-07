@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on a text based dungeon crawler RPG called "Unpaid Overtime"
   This is a game where the protagonist is a chronically underpaid office worker who made the mistake of staying late one evening to print some things and is now stuck, with his only escape being climbing the corporate ladder.
 - 📫 You can reach me via Discord at callmebongos
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: ...
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I don't have any fun facts
 
 <!---
 callmebongos/callmebongos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
